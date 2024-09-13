@@ -164,3 +164,9 @@ Requirements:
 Teensy 3.6 with CAN transceiver hardware to connect the Teensy to a physical CAN bus.
 FlexCAN_T4 library for CAN communication.
 Let me know if you need further changes or explanations!
+
+To Do:
+
+- [ ] Define Power Delivery
+- [ ] See what uC is available and cheap
+- [ ] RGB - BiColor - or 2 LED
