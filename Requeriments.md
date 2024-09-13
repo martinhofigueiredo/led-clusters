@@ -6,7 +6,7 @@
 4. Green Blink 1hz when engaged
 5. Red when is shit
 
-```arduino
+```c
 #include <FlexCAN_T4.h>  // Library for CAN communication
 
 // Define pins for LEDs
